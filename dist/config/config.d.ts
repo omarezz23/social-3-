@@ -1,0 +1,23 @@
+export declare const PORT: number;
+export declare const DB_URI: string | undefined;
+export declare const DB_NAME: string | undefined;
+export declare const DB_NAMEEE: string | undefined;
+export declare const ENCRYPTION_KEY: string | undefined;
+export declare const ENCRYPTION_IV_LENGTH: number;
+export declare const ACCESS_TOKEN_SIGN: string | undefined;
+export declare const REFRESH_TOKEN_SIGN: string | undefined;
+export declare const ACCESS_TOKEN_EXP: number;
+export declare const REFRESH_TOKEN_EXP: number;
+export declare const REFRESH_ADMIN_TOKEN_SIGN: string | undefined;
+export declare const REFRESH_USER_TOKEN_SIGN: string | undefined;
+export declare const ACCESS_ADMIN_TOKEN_SIGN: string | undefined;
+export declare const ACCESS_USER_TOKEN_SIGN: string | undefined;
+export declare const WEB_CLIENT_ID: string | undefined;
+export declare const REDIS_URL: string | undefined;
+export declare const APP_PASSWORD: string | undefined;
+export declare const APP_EMAIL: string | undefined;
+export declare const APPLICATION_NAME: string | undefined;
+export declare const FACEBOOK: string | undefined;
+export declare const INSTEGRAM: string | undefined;
+export declare const TWITTER: string | undefined;
+//# sourceMappingURL=config.d.ts.map
